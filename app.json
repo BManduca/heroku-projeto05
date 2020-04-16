@@ -1,0 +1,6 @@
+{
+  "name": "Start on Heroku: PHP",
+  "description": "Projeto05 - hospedando heroku",
+  "repository": "https://github.com/BManduca/heroku-projeto05.git",
+  "addons": []
+}
