@@ -3,7 +3,7 @@
 	<head>
 		<title>Projeto 05 - RM Veículos Especiais.</title>
 		<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
-		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="web/css/style.css">
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0">
 	</head>
@@ -65,7 +65,7 @@
 			<div class="clear"></div>
 			</div><!--container-->
 		</footer>
-		<script src="js/jquery.js"></script>
-		<script src="js/functions.js"></script>
+		<script src="web/js/jquery.js"></script>
+		<script src="web/js/functions.js"></script>
 	</body>
 </html>
